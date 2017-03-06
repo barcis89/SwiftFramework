@@ -16,4 +16,8 @@ public class SwiftFrameworks {
     public func doSomething(){
         print("Yeah, it works")
     }
+    
+    public func doNothing(){
+        print("")
+    }
 }
